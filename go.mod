@@ -1,4 +1,4 @@
-module github.com/conductor-sdk/conductor-go
+module github.com/jmigueprieto/conductor-go
 
 go 1.17
 
